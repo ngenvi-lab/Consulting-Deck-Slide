@@ -1,0 +1,11 @@
+{
+  "name": "ngenvi-lab",
+  "owner": { "name": "ngenvi-lab" },
+  "plugins": [
+    {
+      "name": "consulting-deck",
+      "source": "./",
+      "description": "House style for consulting-style slides and decks."
+    }
+  ]
+}

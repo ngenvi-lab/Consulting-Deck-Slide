@@ -1,0 +1,7 @@
+{
+  "name": "consulting-deck",
+  "version": "1.0.0",
+  "description": "House style for every slide and deck: consulting-style takeaway titles, numbered callouts tied to markers, actual-blue vs forecast-orange, source footers, speaker notes, plus storyline and logic rules.",
+  "author": { "name": "ngenvi-lab" },
+  "repository": "https://github.com/ngenvi-lab/Consulting-Deck-Slide"
+}
